@@ -1,1 +1,1 @@
-# 2022_Naver_AI_Basic_-
+# 2022_Naver_AI_Basic
